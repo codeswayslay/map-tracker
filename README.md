@@ -11,4 +11,4 @@ Simulation of traffic hotspots, changing colour at random. The colours represent
 Simulation of vehicle tracking and traffic hotspots. Basically, a combination of **Task 1** and **Task 2**.
 
 ### Note
-You will need to deploy the Java back-end for this application in order to for it to run properly. The back-end takes care of providing this front-end with the latitude-longitude coordinates it needs to simulate vehicle position on the map.
+You will need to deploy the Java [back-end](https://github.com/teamlead-agbaje/map-tracker-server) for this application in order to for it to run properly. The back-end takes care of providing this front-end with the latitude-longitude coordinates it needs to simulate vehicle position on the map.
